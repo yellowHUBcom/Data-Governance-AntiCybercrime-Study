@@ -1,5 +1,5 @@
 # Data Governance & Compliance Case Study: IT Misuse vs. Freedom of Expression
-
+👉 [Click here to read the full research PDF](./Lama_Aldraim_Data_Governance_Report.pdf)
 ## 📌 Project Overview
 As a **Data Engineer**, building robust data systems requires a deep understanding of **Data Governance, Legal Compliance, and Tech Ethics**. This research paper analyzes the intersection between information access and the prevention of **Information Technology Misuse**. 
 
